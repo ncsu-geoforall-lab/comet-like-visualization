@@ -1,0 +1,10 @@
+#field {
+    background-image: url(cost_nc.png);
+    background-repeat: no-repeat;
+    background-size: 542px 445px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
